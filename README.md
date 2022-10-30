@@ -1,6 +1,6 @@
 # react-tailwind-flowbite-parcel-template
 
-React Tailwind Flowbite Parcel Template.
+[React Tailwind](https://flowbite.com/docs/getting-started/react/) [Flowbite](https://flowbite-react.com/) [Parcel](https://parceljs.org/) Template. Project cloned from [react-typescript-parcel-template](https://github.com/remarkablemark/react-typescript-parcel-template).
 
 ## Prerequisites
 
