@@ -28,7 +28,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "flowbite": "1.5.3",
     "flowbite-react": "0.3.4",
-    "husky": "8.0.1",
+    "husky": "8.0.3",
     "lint-staged": "13.0.3",
     "parcel": "2.7.0",
     "postcss": "8.4.18",
