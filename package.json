@@ -29,7 +29,7 @@
     "flowbite": "2.2.1",
     "flowbite-react": "0.7.2",
     "husky": "8.0.3",
-    "lint-staged": "13.0.3",
+    "lint-staged": "15.2.0",
     "parcel": "2.10.3",
     "postcss": "8.4.18",
     "postcss-plugin": "1.0.0",
