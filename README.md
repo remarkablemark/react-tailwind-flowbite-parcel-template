@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/en/download/)
+- [nvm](https://github.com/nvm-sh/nvm#readme)
 
 ## Install
 
@@ -13,6 +13,12 @@ Clone the repository:
 ```sh
 git clone https://github.com/remarkablemark/react-tailwind-flowbite-parcel-template.git
 cd react-tailwind-flowbite-parcel-template
+```
+
+Use Node.js version:
+
+```sh
+nvm use
 ```
 
 Install the dependencies:
