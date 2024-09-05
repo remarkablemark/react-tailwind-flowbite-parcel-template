@@ -23,7 +23,7 @@
     "@typescript-eslint/eslint-plugin": "8.4.0",
     "@typescript-eslint/parser": "8.4.0",
     "autoprefixer": "10.4.20",
-    "cssnano": "7.0.5",
+    "cssnano": "7.0.6",
     "eslint": "8.57.0",
     "eslint-plugin-prettier": "5.2.1",
     "flowbite": "2.5.1",
