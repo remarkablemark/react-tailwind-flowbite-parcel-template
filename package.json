@@ -29,7 +29,7 @@
     "cssnano": "7.0.6",
     "eslint": "9.18.0",
     "eslint-plugin-prettier": "5.2.3",
-    "flowbite": "2.5.2",
+    "flowbite": "3.0.0",
     "flowbite-react": "0.10.2",
     "globals": "15.14.0",
     "husky": "9.1.7",
