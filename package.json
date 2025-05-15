@@ -33,7 +33,7 @@
     "flowbite-react": "0.10.2",
     "globals": "16.1.0",
     "husky": "9.1.7",
-    "lint-staged": "15.5.2",
+    "lint-staged": "16.0.0",
     "parcel": "2.15.0",
     "postcss": "8.5.3",
     "postcss-plugin": "1.0.0",
