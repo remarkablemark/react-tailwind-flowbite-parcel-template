@@ -30,7 +30,7 @@
     "eslint": "9.35.0",
     "eslint-plugin-prettier": "5.5.4",
     "flowbite": "3.1.2",
-    "flowbite-react": "0.12.8",
+    "flowbite-react": "0.12.9",
     "globals": "16.3.0",
     "husky": "9.1.7",
     "lint-staged": "16.1.6",
